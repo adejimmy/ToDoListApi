@@ -1,6 +1,8 @@
 # ToDoListApi
 Api for todo list including database file
 
+Host on an apache server and run the .sql file first 
+
 the api can be accessed via the url : https://$domain_name/TodoController.php
 
 the parameters are to be post variables sent as such
