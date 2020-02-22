@@ -2,6 +2,7 @@
 Api for todo list including database file
 
 Host on an apache server and run the .sql file first 
+or download xamp and setup the fies inside the hhtdocs folder, then run the sql file
 
 the api can be accessed via the url : https://$domain_name/TodoController.php
 
